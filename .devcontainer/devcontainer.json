@@ -13,6 +13,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
+				"foxundermoon.shell-format",
 				"github.copilot",
 				"github.copilot-chat",
 				"github.vscode-pull-request-github",
@@ -22,6 +23,7 @@
 				"ms-vscode.cpptools",
 				"ms-vscode.cpptools-extension-pack",
 				"ms-vscode.cpptools-themes",
+				"ms-vscode.makefile-tools",
 				"streetsidesoftware.code-spell-checker",
 				"twxs.cmake",
 				"yzhang.markdown-all-in-one"
